@@ -1,6 +1,7 @@
-## PHP Web Application Project-Telemedicine & Doctor Recommendation System Using ML Algorithm.
+## PHP Web Application Project-Telemedicine & Doctor Recommendation System Using ML Algorithm
 
 ## Features:
+
 1: Create User Account.
 
 2: User Authentication.
@@ -16,5 +17,7 @@
 7: Remember Login for Multiple Entry.
 
 ## Language: HTML, CSS , PHP , SQL, JSON Data
+
 ## DataBase: MySQL DataBase
+
 ## Tools: Visual Studio Code, Xampp(Apache)Server.
