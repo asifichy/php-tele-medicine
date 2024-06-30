@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding = "utf-8"?>
+<brightstar>
+
+  
+      <details category = "1">
+        <doctor>Dr.Mridul</doctor>
+        <disease_name>fever</disease_name>
+        <medicine>Napa,Ace,Bicosin</medicine>
+        <instruction>Do not Take Shower</instruction> 
+    </details>
+
+    <details category = "2">
+        <doctor>Dr.Shuvo</doctor>
+        <disease_name>fever</disease_name>
+        <medicine>Napa,Ace,Omega3</medicine>
+        <instruction>Do Not drink cold Water</instruction> 
+    </details>
+
+     <details category = "3">
+        <doctor>Dr.Kushu</doctor>
+        <disease_name>fever</disease_name>
+        <medicine>Ace Plus</medicine>
+        <instruction>Wear Mask</instruction> 
+    </details>
+
+     <details category = "4">
+        <doctor>Dr.Alex</doctor>
+        <disease_name>fever</disease_name>
+        <medicine>Ace,Fanadin</medicine>
+        <instruction>Drink Hot Water and keep warm</instruction> 
+    </details>
+
+     <details category = "5">
+        <doctor>Dr.Ranjan</doctor>
+        <disease_name>fever</disease_name>
+        <medicine>Napa Extra</medicine>
+        <instruction>Drink Tea</instruction> 
+    </details>
+
+     <details category = "6">
+        <doctor>Dr.Bob</doctor>
+        <disease_name>fever</disease_name>
+        <medicine>Tophen,Miracough,Fanadin,Bashok</medicine>
+        <instruction>Drink Hot water and Tea</instruction> 
+    </details>
+
+     <details category = "7">
+        <doctor>Dr.Nicole</doctor>
+        <disease_name>fever</disease_name>
+        <medicine>Bicosin,Napa,Ace</medicine>
+        <instruction>Wear Mask</instruction> 
+    </details>
+
+     <details category = "8">
+        <doctor>Dr.Mukta</doctor>
+        <disease_name>fever</disease_name>
+        <medicine>Napa Extra</medicine>
+        <instruction>Take Medicine 3 times in a day</instruction> 
+    </details>
+
+    <details category = "9">
+        <doctor>Dr.Lexi</doctor>
+        <disease_name>fever</disease_name>
+        <medicine>Napa and Ace</medicine>
+        <instruction>Don not Take shower</instruction> 
+    </details>
+
+    <details category = "10">
+        <doctor>Dr.JFS</doctor>
+        <disease_name>fever</disease_name>
+        <medicine>Napa,Ace,Bicosin</medicine>
+        <instruction>Take medicine after lunch</instruction> 
+    </details>
+
+
+
+       <details category = "11">
+        <doctor>Dr.Mridul</doctor>
+        <disease_name>HighCough</disease_name>
+        <medicine>Robitussin, Delsym</medicine>
+        <instruction>Do not Take Shower</instruction> 
+    </details>
+
+    <details category = "12">
+        <doctor>Dr.Shuvo</doctor>
+        <disease_name>HighCough</disease_name>
+        <medicine>Mucinex</medicine>
+        <instruction>Do Not drink cold Water</instruction> 
+    </details>
+
+     <details category = "13">
+        <doctor>Dr.Kushu</doctor>
+        <disease_name>HighCough</disease_name>
+        <medicine>Mucinex,Robitussin</medicine>
+        <instruction>Wear Mask</instruction> 
+    </details>
+
+     <details category = "14">
+        <doctor>Dr.Alex</doctor>
+        <disease_name>HighCough</disease_name>
+        <medicine>codeine,guaifenesin systemic</medicine>
+        <instruction>Drink Hot Water and keep warm</instruction> 
+    </details>
+
+     <details category = "15">
+        <doctor>Dr.Ranjan</doctor>
+        <disease_name>HighCough</disease_name>
+        <medicine>codeine,Mucinex</medicine>
+        <instruction>Drink Tea</instruction> 
+    </details>
+
+     <details category = "16">
+        <doctor>Dr.Bob</doctor>
+        <disease_name>HighCough</disease_name>
+        <medicine>guaifenesin systemic</medicine>
+        <instruction>Drink Hot water and Tea</instruction> 
+    </details>
+
+     <details category = "17">
+        <doctor>Dr.Nicole</doctor>
+        <disease_name>HighCough</disease_name>
+        <medicine>codeine</medicine>
+        <instruction>Wear Mask</instruction> 
+    </details>
+
+     <details category = "18">
+        <doctor>Dr.Mukta</doctor>
+        <disease_name>HighCough</disease_name>
+        <medicine>Robitussin</medicine>
+        <instruction>Take Medicine 3 times in a day</instruction> 
+    </details>
+
+    <details category = "19">
+        <doctor>Dr.Lexi</doctor>
+        <disease_name>HighCough</disease_name>
+        <medicine>Robitussin</medicine>
+        <instruction>Don not Take shower</instruction> 
+    </details>
+
+    <details category = "20">
+        <doctor>Dr.JFS</doctor>
+        <disease_name>HighCough</disease_name>
+        <medicine>codeine</medicine>
+        <instruction>Take medicine after lunch</instruction> 
+    </details>
+
+    
+      <details category = "21">
+        <doctor>Dr.Mridul</doctor>
+        <disease_name>Headache</disease_name>
+        <medicine>zolmitriptan</medicine>
+        <instruction>Do not Take Shower</instruction> 
+    </details>
+
+    <details category = "22">
+        <doctor>Dr.Shuvo</doctor>
+        <disease_name>Headache</disease_name>
+        <medicine>Triptans</medicine>
+        <instruction>Do Not drink cold Water</instruction> 
+    </details>
+
+     <details category = "23">
+        <doctor>Dr.Kushu</doctor>
+        <disease_name>Headache</disease_name>
+        <medicine>Acetaminophenaspirin</medicine>
+        <instruction>Wear Mask</instruction> 
+    </details>
+
+     <details category = "24">
+        <doctor>Dr.Alex</doctor>
+        <disease_name>Headache</disease_name>
+        <medicine>Aspirin,Napa</medicine>
+        <instruction>Drink Hot Water and keep warm</instruction> 
+    </details>
+
+     <details category = "25">
+        <doctor>Dr.Ranjan</doctor>
+        <disease_name>Headache</disease_name>
+        <medicine>Tylenol</medicine>
+        <instruction>Drink Tea</instruction> 
+    </details>
+
+     <details category = "26">
+        <doctor>Dr.Bob</doctor>
+        <disease_name>Headache</disease_name>
+        <medicine>Vicks Vaporub</medicine>
+        <instruction>Drink Hot water and Tea</instruction> 
+    </details>
+
+     <details category = "27">
+        <doctor>Dr.Nicole</doctor>
+        <disease_name>Headache</disease_name>
+        <medicine>Advil</medicine>
+        <instruction>Wear Mask</instruction> 
+    </details>
+
+     <details category = "28">
+        <doctor>Dr.Mukta</doctor>
+        <disease_name>Headache</disease_name>
+        <medicine>Acetaminophenaspirin</medicine>
+        <instruction>Take Medicine 3 times in a day</instruction> 
+    </details>
+
+    <details category = "29">
+        <doctor>Dr.Lexi</doctor>
+        <disease_name>Headache</disease_name>
+        <medicine>Tylenol</medicine>
+        <instruction>Don not Take shower</instruction> 
+    </details>
+
+    <details category = "30">
+        <doctor>Dr.JFS</doctor>
+        <disease_name>Headache</disease_name>
+        <medicine>Advil,MotrinIB</medicine>
+        <instruction>Take medicine after lunch</instruction> 
+    </details>
+
+
+
+     <details category = "31">
+        <doctor>Dr.Mridul</doctor>
+        <disease_name>HighFever</disease_name>
+        <medicine>zolmitriptan</medicine>
+        <instruction>Do not Take Shower</instruction> 
+    </details>
+
+    <details category = "32">
+        <doctor>Dr.Shuvo</doctor>
+        <disease_name>HighFever</disease_name>
+        <medicine>Triptans</medicine>
+        <instruction>Do Not drink cold Water</instruction> 
+    </details>
+
+     <details category = "33">
+        <doctor>Dr.Kushu</doctor>
+        <disease_name>HighFever</disease_name>
+        <medicine>Acetaminophen,Ibuprofen</medicine>
+        <instruction>Take Medicine after dinner</instruction> 
+    </details>
+
+     <details category = "34">
+        <doctor>Dr.Alex</doctor>
+        <disease_name>HighFever</disease_name>
+        <medicine>Aspirin,Tylenol,Napa</medicine>
+        <instruction>Drink Hot Water and keep warm</instruction> 
+    </details>
+
+     <details category = "35">
+        <doctor>Dr.Ranjan</doctor>
+        <disease_name>HighFever</disease_name>
+        <medicine>,Advil</medicine>
+        <instruction>Drink Tea</instruction> 
+    </details>
+
+     <details category = "36">
+        <doctor>Dr.Bob</doctor>
+        <disease_name>HighFever</disease_name>
+        <medicine>Vicks Vaporub,Motrin IB</medicine>
+        <instruction>Drink Hot water and Tea</instruction> 
+    </details>
+
+     <details category = "37">
+        <doctor>Dr.Nicole</doctor>
+        <disease_name>HighFever</disease_name>
+        <medicine>Advil</medicine>
+        <instruction>Eat 1 spoon honey</instruction> 
+    </details>
+
+     <details category = "38">
+        <doctor>Dr.Mukta</doctor>
+        <disease_name>HighFever</disease_name>
+        <medicine>Tylenol,Acetaminophenaspirin</medicine>
+        <instruction>Take Medicine 3 times in a day</instruction> 
+    </details>
+
+    <details category = "39">
+        <doctor>Dr.Lexi</doctor>
+        <disease_name>HighFever</disease_name>
+        <medicine>Acetaminophen</medicine>
+        <instruction>Don not Take shower</instruction> 
+    </details>
+
+    <details category = "40">
+        <doctor>Dr.JFS</doctor>
+        <disease_name>HighFever</disease_name>
+        <medicine>Caffeine systemic,MotrinIB</medicine>
+        <instruction>Take medicine after lunch</instruction> 
+    </details>
+
+</brightstar>

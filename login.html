@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<head>
+
+ <style>
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.loginPage{
+width: 100%;
+background:linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%),url(homepic1.jpg);
+background-position: left;
+background-size: cover;
+height: 109vh;
+
+
+}
+
+.loginform{
+
+        width: 250px;
+        height: 380px;
+        background: linear-gradient(to top, rgba(0,0,0,0.8)50%, rgba(0,0,0,0.8)50%);
+        position: absolute;
+        top: 200px;
+        left: 750px;
+        border-radius: 10px;
+        padding: 50px;
+
+}
+
+.loginform h2{
+    width: 220px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #ff7200;
+    font-size: 22px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 8px;
+}
+
+.loginform input{
+    width: 240px;
+    height: 35px;
+    background: transparent;
+    border-bottom: 1px solid #ff7200;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color: #fff;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    font-family: sans-serif;
+}
+
+.loginform input:focus{
+    outline: none;
+}
+
+::placeholder{
+    color: #fff;
+    font-family: Arial;
+}
+
+.btnn{
+    width: 240px;
+    height: 40px;
+    background: #ff7200;
+    border: none;
+    margin-top: 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #fff;
+    transition: 0.4s ease;
+}
+.btnn:hover{
+    background: #fff;
+    color: #ff7200;
+}
+.btnn a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+.loginform .link{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    padding-top: 20px;
+    color: #fff;
+    text-align: center;
+}
+.loginform .link a{
+    text-decoration: none;
+    color: #ff7200;
+}
+   
+ </style>
+
+    <body>
+
+    <div class="loginPage">
+
+    <div class="loginform">
+        <h2>Login Here</h2>
+        <input type="email" name="email" placeholder="Enter Username">
+        <input type="password" name="password" placeholder="Enter Password">
+        <button class="btnn"><a href="#">Login</a></button>
+
+        <p class="link">Don't Have an account?<br><br>
+        <a href="#">Register Here</a></p>
+       
+      </div>
+
+    </div>
+    </body>
+</head>

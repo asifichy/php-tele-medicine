@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding = "utf-8"?>
+<brightstar>
+
+    <details category = "1">
+        <doctorname>Dr.Mridul</doctorname> 
+    </details>
+
+    <details category = "2">
+        <doctorname>Dr.Shuvo</doctorname> 
+    </details>
+
+     <details category = "3">
+        <doctorname>Dr.Kushu</doctorname> 
+    </details>
+
+     <details category = "4">
+        <doctorname>Dr.Alex</doctorname> 
+    </details>
+
+     <details category = "5">
+        <doctorname>Dr.Ranjan</doctorname> 
+    </details>
+
+     <details category = "6">
+        <doctorname>Dr.Bob</doctorname> 
+    </details>
+
+     <details category = "7">
+        <doctorname>Dr.Nicole</doctorname> 
+    </details>
+
+     <details category = "8">
+        <doctorname>Dr.Mukta</doctorname> 
+    </details>
+
+     <details category = "9">
+        <doctorname>Dr.Lexi</doctorname> 
+    </details>
+
+     <details category = "10">
+        <doctorname>Dr.JFS</doctorname> 
+    </details>
+
+
+
+</brightstar>

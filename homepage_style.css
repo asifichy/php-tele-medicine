@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.main{
+
+    width: 100%;
+    background:url(homepic1.jpg);
+    background-position: left;
+    background-size: cover;
+    height: 109vh;
+
+
+}
+
+.manual{
+
+  width: 100%;
+  background:white;
+  background-position: left;
+  background-size: cover;
+  height: 109vh;
+
+
+}
+
+.navbar {
+    width: 100%;
+    background-color: #8d12b3;
+    overflow: auto;
+  }
+  
+  .navbar a {
+    float: left;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  
+  .navbar a:hover {
+    background-color: #44025e;
+  }
+  .button{
+      background-color: #720772;
+      border: none;
+      color: white;
+      padding: 25px 50px;
+      text-decoration: none;
+      display:flex;
+      font-size: 50px;
+      margin: 20px 40px ;
+      cursor: pointer;
+      justify-content: center;
+    }
+
+    .box{
+      width: 800px;
+      height: 380px;
+      background: white;
+      position: absolute;
+      top: 200px;
+      left: 50px;
+      border-radius: 10px;
+      padding: 50px;
+
+}
+    
+  @media screen and (max-width: 500px) {
+    .navbar a {
+      float: none;
+      display: block;
+    }
+
+    
+
+
+
+
+
+  }
